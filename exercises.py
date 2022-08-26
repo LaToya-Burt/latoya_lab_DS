@@ -83,7 +83,7 @@ def add_coin(coins):
 Take the Tuple from Problem 4 and remove all of the duplicates from it
 Then, display all of the "coin types" to the user
 Example Output: "gold, silver, copper"
-NOTE: You will need to convert your Tuple to a Set, then back toa Tuple in order to de-duplicate
+NOTE: You will need to convert your Tuple to a Set, then back to a Tuple in order to de-duplicate
 """
 
 
